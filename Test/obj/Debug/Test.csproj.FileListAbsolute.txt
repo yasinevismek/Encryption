@@ -1,0 +1,8 @@
+D:\KTU\5.Yariyil\BilgiGuvenligiveKriptoloji\360818-YasinEvismek\bilgiguvenligi\Test\bin\Debug\Test.dll
+D:\KTU\5.Yariyil\BilgiGuvenligiveKriptoloji\360818-YasinEvismek\bilgiguvenligi\Test\bin\Debug\Test.pdb
+D:\KTU\5.Yariyil\BilgiGuvenligiveKriptoloji\360818-YasinEvismek\bilgiguvenligi\Test\bin\Debug\bilgiguvenligi.exe
+D:\KTU\5.Yariyil\BilgiGuvenligiveKriptoloji\360818-YasinEvismek\bilgiguvenligi\Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\KTU\5.Yariyil\BilgiGuvenligiveKriptoloji\360818-YasinEvismek\bilgiguvenligi\Test\bin\Debug\bilgiguvenligi.pdb
+D:\KTU\5.Yariyil\BilgiGuvenligiveKriptoloji\360818-YasinEvismek\bilgiguvenligi\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\KTU\5.Yariyil\BilgiGuvenligiveKriptoloji\360818-YasinEvismek\bilgiguvenligi\Test\obj\Debug\Test.dll
+D:\KTU\5.Yariyil\BilgiGuvenligiveKriptoloji\360818-YasinEvismek\bilgiguvenligi\Test\obj\Debug\Test.pdb
